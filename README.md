@@ -1,9 +1,22 @@
 # tkinter-weather-widget
 
+  
+This will manage the communication with the weather APIs  (Model) 
+`Weather_API.py`  
 
-Weather_API.py
-Controller.py
-WeatherWidget.py
+
+This file will include the weather model. Still thinking about this. 
+`WeatherModel.py`   
+
+This will control the weather logic, parsing & populating the widget  (Controller)
+`Controller.py`   
+
+This will display the weather information  (View)
+`WeatherWidget.py`  
+
+
+Weather APIs that we are planning to use: 
+`https://openweathermap.org/`  
 
 
 
