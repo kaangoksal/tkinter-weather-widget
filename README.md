@@ -15,8 +15,8 @@ This will display the weather information  (View)
 `WeatherWidget.py`  
 
 
-Weather APIs that we are planning to use: 
+Weather APIs that we are planning to use:   
 `https://openweathermap.org/`  
-
+`https://www.aerisweather.com/signup/developer/`  
 
 
