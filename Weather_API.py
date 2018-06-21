@@ -7,5 +7,13 @@ class WeatherAPI:
 		pass
 
 
-	def get_weather_report(self):
+	def get_current_weather_at_coorindates(self,latitude,longitude):
 		pass
+
+	def get_weather_prediction_at_coordinates(self, latitude, longitude):
+		pass
+
+	def get_sattalite_visibility(self, latitude,longitude):
+		pass
+
+	
