@@ -4,12 +4,12 @@
 
 Weather Information that we are collecting: 
 
-Wind,
-Rain Chance,
-Temperature,
-Number of Visible Satallites,
-Line of Sight,
-Cloud Coverage
+- Wind  
+- Rain Chance  
+- Temperature  
+- Number of Visible Satallites  
+- Line of Sight  
+- Cloud Coverage  
 
 
 This will manage the communication with the weather APIs  (Model)   
