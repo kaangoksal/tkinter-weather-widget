@@ -13,7 +13,6 @@ class WeatherAPI:
 	def get_weather_prediction_at_coordinates(self, latitude, longitude):
 		pass
 
-	def get_sattalite_visibility(self, latitude,longitude):
+	def get_satellite_visibility(self, latitude,longitude):
 		pass
 
-	
