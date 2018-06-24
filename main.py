@@ -18,7 +18,7 @@ class MyFirstGUI(tk.Tk):
         self.close_button.grid(column=1,row=3)
 
         self.weather_widget = WeatherWidget(self)
-        self.weather_widget.grid(column=1, row=4)
+        self.weather_widget.grid(column=1, row=4, pady=(10,10),padx=(10,10))
 
     def greet(self):
         print("Greetings!")

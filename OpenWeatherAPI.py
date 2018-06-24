@@ -6,7 +6,6 @@ class OpenWeatherAPI:
     def __init__(self, key):
         self.key = key
 
-
     def get_current_weather_by_coordinates(self, latitude,longitude):
 
         url = "http://api.openweathermap.org/data/2.5/weather"
@@ -18,5 +17,9 @@ class OpenWeatherAPI:
 
         #TODO error handling, such as invalid key
         return response.json()
+
+    def get_weather_predictions_by_coordinate(self, latitude,longitude):
+        pass
+
 
 
