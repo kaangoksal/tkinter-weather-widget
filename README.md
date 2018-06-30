@@ -12,6 +12,10 @@ Weather Information that we are collecting:
 - Cloud Coverage  
 
 
+##Code architecture  ##
+
+![Alt text](https://github.com/kaangoksal/tkinter-weather-widget/blob/master/architecture_diagram.jpeg)
+
 This will manage the communication with the weather APIs  (Model)   
 `Weather_API.py`  
 
